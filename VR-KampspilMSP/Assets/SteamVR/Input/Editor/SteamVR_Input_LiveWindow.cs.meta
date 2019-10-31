@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 4f3a55cce07b5da49ad2dfb86baea564
-timeCreated: 1521569618
-licenseType: Store
+guid: 4a7f6d36148a1394c9323285124f5d2d
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
   defaultReferences:
   - skin: {fileID: 11400000, guid: 7836f978f062019499564a455654e74a, type: 2}
